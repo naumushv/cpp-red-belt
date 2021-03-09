@@ -5,4 +5,4 @@ Course 3 of 5 in the [Искусство разработки на соврем�
 Language: Russian
 <img src="https://github.com/naumushv/cpp-red-belt/blob/main/red.png" width="300" height="350">
 
-status: not finished
+
